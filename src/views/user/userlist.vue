@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+  <h1>用户列表</h1>
 </template>
 
 <script>
